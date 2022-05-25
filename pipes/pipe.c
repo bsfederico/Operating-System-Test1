@@ -54,7 +54,7 @@ int main(){
             //Volver a llamar desplazando el puntero, yo creo que tocaría volver a llamar
             //write porque del write fue el que hubo error, hasta que se escriba todo
         }
-        printf("The value of buffer is: %s",buffer);
+        printf("The value of buffer is: %s\n",buffer);
         close(pipefd[0]);
     }
     //End of handling processes that fork function returned
