@@ -1,0 +1,1 @@
+Para que funcione todo bien, abrir servidor.c y cambiar el nombre del archivo que se encuentra en el define FILE_TO_SEND, por el nombre del archivo que se va a enviar, los cuales estan el la carpeta, complilar y ejecutar en consolas distintas.
